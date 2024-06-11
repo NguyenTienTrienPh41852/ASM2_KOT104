@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "482984901316",
+    "project_id": "loginkotlinass",
+    "storage_bucket": "loginkotlinass.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482984901316:android:3f02d0219e33481cc8e791",
+        "android_client_info": {
+          "package_name": "com.hoanhph29102.assignment_kotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV7TkdmEgGA4DU7UJ70uLqLbpG866kWeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
